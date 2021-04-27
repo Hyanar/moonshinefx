@@ -63,5 +63,5 @@ gettingPissed = function(anim, shake, screenfx)
   end
 end
 
--- uncomment this to test the shit i guess lol
-RegisterCommand("moonshine", function(...) DoMoonshine(10000); end)
+-- Uncomment this to test the shit I guess lol
+--RegisterCommand("moonshine", function(...) DoMoonshine(10000); end)
