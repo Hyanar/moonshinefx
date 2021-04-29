@@ -3,7 +3,7 @@ local shinestr = -1
 DoMoonshine = function(time)
   --print("moonshine start")
   shinestr = math.random(1,100)
-  print(shinestr)
+  --print(shinestr)
 
   if shinestr >= 0 and shinestr < 24 then
     --print("lvl 1")
